@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_links",
+  "info": {
+    "displayName": "Link",
+    "icon": "atlas"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}
